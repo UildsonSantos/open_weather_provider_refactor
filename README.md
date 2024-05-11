@@ -2,7 +2,7 @@
 
 *  With: 
 
-        ChangeNotifierProvider + ProxyProvider
+        StateNotifierProvider
 
 
 ## App Flow
