@@ -1,6 +1,13 @@
 # open_weather_provider_refactor
 
-A new Flutter project.
+*  With: 
+
+        ChangeNotifierProvider + ProxyProvider
+
+
+## App Flow
+
+![App Flow](assets/images/app_flow.png)
 
 ## Getting Started
 
